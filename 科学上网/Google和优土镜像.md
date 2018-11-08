@@ -1,8 +1,5 @@
 ## Google  
  * http://ac.scmor.com
- * https://google.jiongjun.cc
- * https://g.zmirrordemo.com
- * https://www.gotype.tk
  * http://www.hlhmf.com/
  
 
