@@ -45,7 +45,7 @@ vpn|使用限制|
 
 vpn配置站点
 
-* https://whoer.net
+* https://whoer.net  Your authorization code: KEY98DCLDY6YP
 * https://www.vpnbook.com/freevpn
 * https://www.freeopenvpn.org/en/connect.php
 * https://www.vpnjantit.com/free-softether.html
