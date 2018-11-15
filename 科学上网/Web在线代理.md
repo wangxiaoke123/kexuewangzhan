@@ -22,4 +22,9 @@
 
 
 ## HTTPS代理节点
-*
+*HK1 www.copyplay.net 443
+*HK2 www.tcpbbr.net 443
+*HK3 hgc.21t.xyz 443
+*UK uk.tcpbbr.net 443
+*RU ru.onhop.net 443
+*US us1.tcpbbr.net 443
