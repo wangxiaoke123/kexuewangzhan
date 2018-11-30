@@ -5,4 +5,4 @@
 
 ## YouTube
 * https://ytb-pc.zmirrordemo.com (加密后为ZhejiangUniversity)
-* https://you.tgdaili.xyz/ (账号密码都是tgdaili)
+* <s>https://you.tgdaili.xyz/ (账号密码都是tgdaili)</s>
