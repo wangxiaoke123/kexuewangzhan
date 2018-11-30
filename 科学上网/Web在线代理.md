@@ -1,9 +1,8 @@
 ## 可用
 * https://www.rabb.it
 * https://www.anyproxy.cn
-* https://www.anyproxy.top (挂了)
-* https://cn.bing.com/translator/ (挂了)
-* https://proxy.zagon.net.pe
+* https://cn.bing.com/translator/ (没什么用)
+* https://proxy.zagon.net.pe （被墙）
 * https://unblocksite.site/
 
 
