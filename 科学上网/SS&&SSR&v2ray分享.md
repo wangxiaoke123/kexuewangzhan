@@ -80,7 +80,7 @@ v2ray的账号分享站点目前较少
 ## 镜像站点
 
 * https://trial.ssbit.win
-* http://free-ss.tk
+* <s>http://free-ss.tk</s>
 
 <!--
 ## 科学访问
