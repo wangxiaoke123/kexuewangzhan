@@ -60,6 +60,7 @@ v2ray的账号分享站点目前较少
 * http://www.52ssr.net/
 * https://www.wuwweb.com/
 * https://free.yitianjianss.com
+* https://www.nutgeek.com/
 
 
 
@@ -80,33 +81,12 @@ v2ray的账号分享站点目前较少
 * https://trial.ssbit.win
 * <s>http://free-ss.tk</s>
 
-<!--
-## 科学访问
-* https://www.ssrshare.com
-* https://fangeqiang.com/408.html
-* https://get.ishadowx.net
-* https://get.freess.today
-* https://tool.ssrshare.com/tool/free_ssr
-* https://doub.io 
-* https://free-ss.site
-* https://global.ishadowx.net
-* http://www.52ssr.net/
-* https://www.wuwweb.com/
-* https://free.yitianjianss.com
-* https://www.puffss.com/
--->
 ## ssr订阅源
-* https://www.nutgeek.cn/newsubscribe/
-* https://prom-php.herokuapp.com/cloudfra_ssr.txt
-* http://share-shadowsocks.herokuapp.com/full/subscribe
-* http://share-shadowsocksr.herokuapp.com/subscribe?valid=1
+* <s>https://prom-php.herokuapp.com/cloudfra_ssr.txt</s>
+* <s>http://share-shadowsocks.herokuapp.com/full/subscribe</s>
+* <s>http://share-shadowsocksr.herokuapp.com/subscribe?valid=1</s>
 * https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com
 
-## telegram 订阅
-
-https://t.me/freeshadowsock  
-https://t.me/gyjclub  
-https://t.me/joinchat/AAAAAEvnT-th4YKBWoUjFw
 
 ## 分享邮箱
 * toyoooooooooooo@gmail.com (doub.io)
