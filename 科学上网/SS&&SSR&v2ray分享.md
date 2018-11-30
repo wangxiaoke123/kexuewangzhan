@@ -40,28 +40,26 @@ v2ray的账号分享站点目前较少
 
 * https://fast.ishadowx.net
 * http://52ss.fun/
-* http://shadowsocks.hk/
+* <s>http://shadowsocks.hk/</s>
 * https://shadowsocksr.cat/
 * https://ss.freess.org/
 * https://ss.ishadowx.com
 * http://webosss.com/tool/socket
 * https://free.gyteng.com/
 * https://www.nutgeek.com/ssshadowsocks
-* https://share-shadowsocksr.herokuapp.com
-* https://share-shadowsocks.herokuapp.com 
+* <s>https://share-shadowsocksr.herokuapp.com</s>
+* <s>https://share-shadowsocks.herokuapp.com</s>
 * https://www.freevpn.pw/zh-cn/
 * https://www.ssrshare.com
 * https://fangeqiang.com/408.html
 * https://get.ishadowx.net
 * https://get.freess.today
-* https://tool.ssrshare.com/tool/free_ssr
 * https://doub.io 
 * https://free-ss.site
 * https://global.ishadowx.net
 * http://www.52ssr.net/
 * https://www.wuwweb.com/
 * https://free.yitianjianss.com
-* https://www.puffss.com/
 
 
 
