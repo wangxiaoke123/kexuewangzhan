@@ -86,6 +86,7 @@ v2ray的账号分享站点目前较少
 * <s>http://share-shadowsocks.herokuapp.com/full/subscribe</s>
 * <s>http://share-shadowsocksr.herokuapp.com/subscribe?valid=1</s>
 * https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com
+* https://ssr-share1.herokuapp.com/subscribe?valid=1
 
 
 ## 分享邮箱
