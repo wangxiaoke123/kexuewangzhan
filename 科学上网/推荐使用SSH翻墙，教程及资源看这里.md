@@ -13,9 +13,9 @@ https://loremwalker.github.io/fq-book/#/proxy/SSH-Tunnel
 * https://bestvpnssh.com/
 * https://fullssh.com/
 * https://www.sshagan.net/
-* https://www.portssh.com/
+* <s>https://www.portssh.com/</s>
 * <s>https://www.jetssh.com/</s>
-* https://sshudp.com/
+* <s>https://sshudp.com/</s>
 * http://cloudssh.us/
 * http://free-ssh.xyz/
 * https://sshkit.com/
