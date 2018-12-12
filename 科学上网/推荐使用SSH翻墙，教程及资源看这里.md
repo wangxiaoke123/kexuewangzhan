@@ -13,7 +13,6 @@ https://loremwalker.github.io/fq-book/#/proxy/SSH-Tunnel
 * https://bestvpnssh.com/
 * https://fullssh.com/
 * https://www.sshagan.net/
-* https://sshfree.net/
 * https://www.portssh.com/
 * <s>https://www.jetssh.com/</s>
 * https://sshudp.com/
