@@ -8,8 +8,8 @@ https://loremwalker.github.io/fq-book/#/proxy/SSH-Tunnel
 * https://sshdropbear.net/
 * <s>https://speedssh.com/</s>
 * https://fastssh.com/
-* https://www.mytunneling.com/
-* https://createssh.com/
+* <s>https://www.mytunneling.com/</s>
+* http://createssh.com/
 * https://bestvpnssh.com/
 * https://fullssh.com/
 * https://www.sshagan.net/
