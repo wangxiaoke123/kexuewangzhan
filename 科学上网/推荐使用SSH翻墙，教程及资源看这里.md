@@ -6,7 +6,7 @@ https://loremwalker.github.io/fq-book/#/proxy/SSH-Tunnel
 
 * https://skyssh.com
 * https://sshdropbear.net/
-* https://speedssh.com/
+* <s>https://speedssh.com/</s>
 * https://fastssh.com/
 * https://www.mytunneling.com/
 * https://createssh.com/
@@ -15,7 +15,7 @@ https://loremwalker.github.io/fq-book/#/proxy/SSH-Tunnel
 * https://www.sshagan.net/
 * https://sshfree.net/
 * https://www.portssh.com/
-* https://www.jetssh.com/
+* <s>https://www.jetssh.com/</s>
 * https://sshudp.com/
 * http://cloudssh.us/
 * http://free-ssh.xyz/
