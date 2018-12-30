@@ -7,16 +7,13 @@ chrome代理插件|使用限制|
 |:-:|:-:|
 |[SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)|需要有服务器支持并手动配置参数|
 |[Google访问助手](http://www.ggfwzs.com/)|需要设置360主页且只能访问Google服务|
-|[SurfEasyVPN](https://www.surfeasy.com)| 500M流量|
 |[windscribe](https://chn.windscribe.com)|10G流量限制|
 |[privatix](https://privatix.com/)|免费|
 |[tuxler](https://tuxler.com/)|免费|
 |[setupvpn](https://setupvpn.com/)|免费|
-|[Better net](http://betternet.co/)|完全免费|
 |[skyZip proxy](https://nynex.de/tools/)|完全免费|
 |[ip unblock](http://ipunblock.com/)|完全免费|
 |[ininja Free Proxy](https://ininja.org)|完全免费|
-|[tunnello](https://tunnello.com)|免费|
 
 ## VPN名单
 vpn|使用限制|
