@@ -26,9 +26,7 @@ vpn|使用限制|
 |[ExpressVPN](https://www.expressvpn.com)|付费|
 |[windscribe](https://chn.windscribe.com)|10G流量限制,可无限注册帐号|
 |[protonvpn](https://protonvpn.com/download/)|免费限制较多但不限流量<br>试用3天高级账户，只限6个半小时|
-|[devpn](https://devpn.info/)| 一小时更换一次密码<br>服务器以及协议上的限制|
 |[goldenkey](https://www.safasti.net/#download)|试用3天|
-|[Viscosity](https://www.sparklabs.com/viscosity/)|试用30天需要配置文件|
 |[whoer](https://whoer.net/en/vpn)|邮箱注册即可提供免费荷兰服务器，有效期7年|
 |[betternet](https://www.betternet.co/)|完全免费|
 |[psiphon](https://psiphon.ca/)|完全免费|
