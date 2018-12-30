@@ -40,6 +40,7 @@ vpn|使用限制|
 |[OpenVpn](https://www.techspot.com/downloads/5182-openvpn.html)|需要提供服务器与配置文件|
 |[Cisco Anyconnect](https://www.cisco.com/c/en/us/support/security/anyconnect-secure-mobility-client/tsd-products-support-series-home.html)|需要提供服务器账户|
 |[tycoon vpn](https://www.tycoonvpn.com/)|目前免费|
+|[BullGuard VPN](https://www.bullguard.com/downloads.aspx)|目前一个帐号免费7天,英文状态下进入这个网址|
 
 
 附录
