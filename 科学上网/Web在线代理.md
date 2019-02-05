@@ -1,9 +1,5 @@
 ## 可用
 * https://www.rabb.it
-* https://www.anyproxy.cn （被墙）
-* https://proxy.zagon.net.pe （被墙）
-* https://unblocksite.site/ (被墙)
-
 
 ## 代理网址服务器列表
 * http://free-proxy.cz
