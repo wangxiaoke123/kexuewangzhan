@@ -22,3 +22,5 @@ https://loremwalker.github.io/fq-book/#/browse/chrome
 * https://www.chromedownloads.net/
 
 * http://www.cnplugins.com/
+
+* https://extfans.com/
