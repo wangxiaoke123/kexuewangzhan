@@ -76,11 +76,9 @@ v2ray的账号分享站点目前较少
 ## 镜像站点
 
 * https://trial.ssbit.win
-* <s>http://free-ss.tk</s>
 
 ## ssr订阅源
-* <s>https://prom-php.herokuapp.com/cloudfra_ssr.txt</s>
-* <s>http://share-shadowsocks.herokuapp.com/full/subscribe</s>
+
 * <s>http://share-shadowsocksr.herokuapp.com/subscribe?valid=1</s>
 * https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com
 * https://ssr-share1.herokuapp.com/subscribe?valid=1
