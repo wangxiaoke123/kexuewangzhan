@@ -30,4 +30,6 @@
 
 *RU ru.onhop.net 443
 
+*HK4 www.onhop.net 443
+
 *US us1.tcpbbr.net 443
