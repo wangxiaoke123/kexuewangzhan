@@ -16,3 +16,9 @@ https://loremwalker.github.io/fq-book/#/browse/chrome
 * https://chrome-extension-downloader.com/
 
 * https://www.crx4chrome.com/
+
+* https://173app.com/chrome-ext
+
+* https://www.chromedownloads.net/
+
+* http://www.cnplugins.com/
