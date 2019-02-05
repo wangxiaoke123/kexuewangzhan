@@ -1,7 +1,6 @@
 ## 可用
 * https://www.rabb.it
 * https://www.anyproxy.cn （被墙）
-* https://cn.bing.com/translator/ (没什么用)
 * https://proxy.zagon.net.pe （被墙）
 * https://unblocksite.site/
 
