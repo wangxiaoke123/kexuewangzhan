@@ -92,20 +92,3 @@ v2ray的账号分享站点目前较少
 ## 搜索相似的网站
 
 https://www.similarsites.com
-
-## 已失效
-
-https://freess.cx  
-https://shadowsocksph.space  
-https://free.4kvpn.com  
-https://freess.pw  
-https://doub.loan  
-https://freemz.tk/t/5  
-https://52ssr.cn  
-http://www.honsuv.com/?post=90  
-https://newdoub.com  
-https://en.ss8.fun  
-http://www.vpn168.tk  
-https://5l44.pw/  
-http://www.ssrfx.com  
-http://freeoutline.org/zh
