@@ -47,8 +47,6 @@ v2ray的账号分享站点目前较少
 * http://webosss.com/tool/socket
 * https://free.gyteng.com/
 * https://www.nutgeek.com/ssshadowsocks
-* <s>https://share-shadowsocksr.herokuapp.com</s>
-* <s>https://share-shadowsocks.herokuapp.com</s>
 * https://www.freevpn.pw/zh-cn/
 * https://www.ssrshare.com
 * https://fangeqiang.com/408.html
@@ -60,7 +58,6 @@ v2ray的账号分享站点目前较少
 * http://www.52ssr.net/
 * https://www.wuwweb.com/
 * https://free.yitianjianss.com
-* https://www.nutgeek.com/
 
 
 
