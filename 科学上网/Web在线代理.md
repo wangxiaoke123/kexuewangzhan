@@ -28,3 +28,7 @@
 * HK4 www.onhop.net 443
 
 * US us1.tcpbbr.net 443
+
+* www.pickdown.net 1443
+
+* www.51netflix.com 1443
