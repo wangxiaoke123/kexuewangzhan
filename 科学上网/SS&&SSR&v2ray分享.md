@@ -81,7 +81,6 @@ v2ray的账号分享站点目前较少
 
 
 ## 分享邮箱
-* toyoooooooooooo@gmail.com (doub.io)
 * ye515430@gmail.com (yitianjianss)
 * ss@rohankdd.com (free-ss.site)
 
