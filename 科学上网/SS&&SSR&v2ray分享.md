@@ -75,7 +75,7 @@ v2ray的账号分享站点目前较少
 
 ## ssr订阅源
 
-* <s>http://share-shadowsocksr.herokuapp.com/subscribe?valid=1</s>
+* http://share-shadowsocksr.herokuapp.com/subscribe?valid=1
 * https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com
 * https://ssr-share1.herokuapp.com/subscribe?valid=1
 
