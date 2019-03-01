@@ -73,10 +73,6 @@ v2ray的账号分享站点目前较少
 * https://blog.mxpkx.com/index.php/archives/118/
 * http://freefq.com/ss/
 
-## 镜像站点
-
-* https://trial.ssbit.win
-
 ## ssr订阅源
 
 * <s>http://share-shadowsocksr.herokuapp.com/subscribe?valid=1</s>
