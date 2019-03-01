@@ -17,6 +17,8 @@
 ## HTTPS代理节点
 * HK1 www.copyplay.net 443
 
+* HK1 us.copyplay.net 443
+
 * HK2 www.tcpbbr.net 443
 
 * HK3 hgc.21t.xyz 443
