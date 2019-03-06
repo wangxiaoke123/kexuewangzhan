@@ -13,7 +13,7 @@ https://loremwalker.github.io/fq-book/#/browse/chrome
 
 ## chrome扩展下载
 
-* https://chrome-extension-downloader.com/
+* https://chrome-extension-downloader.com/  只能用链接或者ID下载
 
 * https://www.crx4chrome.com/ 非最新
 
