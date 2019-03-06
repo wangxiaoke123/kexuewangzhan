@@ -15,12 +15,12 @@ https://loremwalker.github.io/fq-book/#/browse/chrome
 
 * https://chrome-extension-downloader.com/
 
-* https://www.crx4chrome.com/
+* https://www.crx4chrome.com/ 非最新
 
 * https://173app.com/chrome-ext
 
-* https://www.chromedownloads.net/
+* https://www.chromedownloads.net/  非最新
 
-* http://www.cnplugins.com/
+* http://www.cnplugins.com/ 非最新
 
 * https://extfans.com/
