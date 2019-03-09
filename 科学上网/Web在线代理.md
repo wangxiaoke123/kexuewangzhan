@@ -34,3 +34,5 @@
 * www.pickdown.net 1443
 
 * www.51netflix.com 1443
+
+* sg102932.cdn-aliyun.com 443
