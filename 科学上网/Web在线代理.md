@@ -35,4 +35,4 @@
 
 * www.51netflix.com 1443
 
-* sg102932.cdn-aliyun.com 443
+* shop.cdn-aliyun.com 443
