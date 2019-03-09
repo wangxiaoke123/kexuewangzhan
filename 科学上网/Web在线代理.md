@@ -34,3 +34,5 @@
 * www.51netflix.com 1443 不能用
 
 * shop.cdn-aliyun.com 443 能用
+
+* jp1.tcpbbr.net 443 能用
