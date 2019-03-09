@@ -15,22 +15,22 @@
 
 
 ## HTTPS代理节点
-* HK1 www.copyplay.net 443
+* HK1 www.copyplay.net 443 能用
 
-* HK1 us.copyplay.net 443
+* HK1 us.copyplay.net 443 能用
 
-* HK2 www.tcpbbr.net 443
+* HK2 www.tcpbbr.net 443 不能用
 
-* UK uk.tcpbbr.net 443
+* UK uk.tcpbbr.net 443 能用
 
-* RU ru.onhop.net 443
+* RU ru.onhop.net 443 不能用
 
-* HK4 www.onhop.net 443
+* HK4 www.onhop.net 443 能用
 
-* US us1.tcpbbr.net 443
+* US us1.tcpbbr.net 443 不能用
 
-* www.pickdown.net 1443
+* www.pickdown.net 1443 不能用
 
-* www.51netflix.com 1443
+* www.51netflix.com 1443 不能用
 
-* shop.cdn-aliyun.com 443
+* shop.cdn-aliyun.com 443 能用
