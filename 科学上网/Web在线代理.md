@@ -36,3 +36,5 @@
 * shop.cdn-aliyun.com 443 能用
 
 * jp1.tcpbbr.net 443 能用
+
+* us.onhop.net 443 能用
