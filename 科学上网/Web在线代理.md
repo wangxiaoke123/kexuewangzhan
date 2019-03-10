@@ -29,7 +29,7 @@
 
 * US us1.tcpbbr.net 443 不能用
 
-* www.pickdown.net 443 能用
+* www.pickdown.net 443 bu能用
 
 * www.51netflix.com 1443 不能用
 
