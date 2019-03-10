@@ -37,6 +37,8 @@
 
 * jp1.tcpbbr.net 443 能用
 
+* jp2.tcpbbr.net 443 能用
+
 * us.onhop.net 443 能用
 
 * gia.onhop.net 443 能用
