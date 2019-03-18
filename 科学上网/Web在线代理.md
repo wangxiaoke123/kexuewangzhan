@@ -21,7 +21,7 @@
 
 * HK2 www.tcpbbr.net 443 不能用
 
-* UK uk.tcpbbr.net 443 bu能用
+* UK uk.tcpbbr.net 443 能用
 
 * RU ru.onhop.net 443 不能用
 
