@@ -19,13 +19,13 @@
 
 * HK1 us.copyplay.net 443 已废
 
-* HK2 www.tcpbbr.net 443 已废
+* HK2 www.tcpbbr.net 443 不定时可用
 
 * UK uk.tcpbbr.net 443 已废
 
 * RU ru.onhop.net 443 不能用
 
-* HK4 www.onhop.net 443 已废
+* HK4 www.onhop.net 443 不定时可用
 
 * US us1.tcpbbr.net 443 不能用
 
