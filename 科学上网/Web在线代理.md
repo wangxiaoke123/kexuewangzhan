@@ -15,7 +15,7 @@
 
 
 ## HTTPS代理节点
-* HK1 www.copyplay.net 443 已废
+* HK1 www.copyplay.net 443 不定时可用
 
 * HK1 us.copyplay.net 443 已废
 
