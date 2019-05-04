@@ -29,7 +29,7 @@
 
 * US us1.tcpbbr.net 443 不能用
 
-* www.pickdown.net 443 能用 抽风
+* www.pickdown.net 1443或443 能用 抽风
 
 * www.51netflix.com 1443 不能用
 
