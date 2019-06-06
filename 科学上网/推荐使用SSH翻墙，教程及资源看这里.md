@@ -1,7 +1,3 @@
-## 使用教程
-
-https://loremwalker.github.io/fq-book/#/proxy/SSH-Tunnel
-
 ## 网站
 
 * https://skyssh.com
