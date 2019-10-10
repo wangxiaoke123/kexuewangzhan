@@ -1,5 +1,9 @@
 ## 可用
-* https://www.rabb.it
+* https://www.rabb.it(有点问题)
+* https://zjcqoo.github.io/
+* http://41332.000webhostapp.com/
+* http://wxkaczf.rf.gd
+* http://wangxiaoke123.000webhostapp.com/
 
 ## 代理网址服务器列表
 * http://free-proxy.cz
